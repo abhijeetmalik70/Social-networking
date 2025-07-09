@@ -1,0 +1,17 @@
+We had the following Ideas for extensions:
+- Registration Page
+- forgot Password
+- Moderating System (high ranks can delete posts)
+- Leaderboard (top 10 users in each area)
+
+
+we implemented the following:
+
+Leaderboard:
+The main goal was to make the fame system more visible and give users a reason to care about their fame levels. It shows the top 10 users per expertise area, ranked by fame.
+We thought this would make things more fun and competitive, and also help users figure out who the “experts” are in each topic.
+It’s a simple feature but adds a nice competitive element, people can see where they stand and maybe feel more motivated to post useful stuff so they can climb the leaderboard
+
+Registration Page:
+The main Goal was to make the Forum open for everyone, we included the email in the Registration to have the ability (in future) to block certain Domains in case of bot accounts.
+Therefore everyone has the possibility to be part of the Social network, and its a secure place to hang out and get serious informations
